@@ -25,8 +25,7 @@ Cybersecurity Enthusiast | Java & Python Programmer | Game Developer
 <img src="https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif?cid=ecf05e47vy36lwztw8pem2mit2iw0z1c6gnq9ph6vqaqeyey&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="100" height="100">
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibhuYadav2005&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vibhu&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+[![Vibhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=VibhuYadav2005&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact Me
 - 📧 Email: [vibhuyadav2005@gmail.com](mailto:vibhuyadav2005@gmail.com)
