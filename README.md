@@ -8,6 +8,7 @@ Cybersecurity Enthusiast | Java & Python Programmer | Game Developer
 - 🧠 **Information Overload**: I thrive on learning and enjoy getting overwhelmed with new information.
   
 ![Curiosity GIF](https://media.giphy.com/media/3oEjHECc1GftirnHZm/giphy.gif?cid=790b7611ns59g4evrrnqniehqkxo0oul79dd6jp20omc23ft&ep=v1_gifs_search&rid=giphy.gif&ct=g) 
+
 <img src="https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif?cid=ecf05e47vy36lwztw8pem2mit2iw0z1c6gnq9ph6vqaqeyey&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="300" height="300"> 
 
 ## Tech Stack
@@ -20,8 +21,6 @@ Cybersecurity Enthusiast | Java & Python Programmer | Game Developer
 
 ![Tech Enthusiast GIF](https://media.giphy.com/media/v7WM6sLcnGIc8/giphy.gif?cid=ecf05e47xlnlwkoq8rklw5npthgvyv9tiyyxn42nwf1vtjuw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
  
-<img src="https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif?cid=ecf05e47vy36lwztw8pem2mit2iw0z1c6gnq9ph6vqaqeyey&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="200" height="200"> 
-
 [![Vibhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=VibhuYadav2005&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Contact Me
