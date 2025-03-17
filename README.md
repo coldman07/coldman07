@@ -16,9 +16,11 @@ Cybersecurity Enthusiast | Java & Python Programmer | Game Developer
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) 
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-009688?style=flat&logo=security&logoColor=white) 
+
+
 ![Tech Enthusiast GIF](https://media.giphy.com/media/v7WM6sLcnGIc8/giphy.gif?cid=ecf05e47xlnlwkoq8rklw5npthgvyv9tiyyxn42nwf1vtjuw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
  
-<img src="https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif?cid=ecf05e47vy36lwztw8pem2mit2iw0z1c6gnq9ph6vqaqeyey&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="100" height="100"> 
+<img src="https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif?cid=ecf05e47vy36lwztw8pem2mit2iw0z1c6gnq9ph6vqaqeyey&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="200" height="200"> 
 
 [![Vibhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=VibhuYadav2005&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
