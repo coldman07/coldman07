@@ -7,17 +7,28 @@ Cybersecurity Enthusiast | Java & Python Programmer | Game Developer
 
 - 🔐 Passionate about cybersecurity and exploring
 - 💻 Programming with Java, Python, and developing 2D games.
-- 📡 Building automated phishing detection systems .
 - 👾 Tech Enthusiast: loves playing with new technologies
 - 🌐 **Cyber Enthusiast**: I love to dive into the world of cybersecurity, exploring how systems work and tweaking things out of curiosity.
 - 🧠 **Information Overload**: I thrive on learning and enjoy getting overwhelmed with new information.
-  
+
+
+![Curiosity GIF](https://media.giphy.com/media/3oEjHECc1GftirnHZm/giphy.gif?cid=790b7611ns59g4evrrnqniehqkxo0oul79dd6jp20omc23ft&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-009688?style=flat&logo=security&logoColor=white)
 
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vibhu&show_icons=true&theme=dark)
+![Tech Enthusiast GIF](https://media.giphy.com/media/v7WM6sLcnGIc8/giphy.gif?cid=ecf05e47xlnlwkoq8rklw5npthgvyv9tiyyxn42nwf1vtjuw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
+## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vibhu&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+## Contact Me
+- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+
+<img src="https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif?cid=ecf05e47vy36lwztw8pem2mit2iw0z1c6gnq9ph6vqaqeyey&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="100" height="100">
