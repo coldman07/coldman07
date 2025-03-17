@@ -8,7 +8,7 @@ Cybersecurity Enthusiast | Java & Python Programmer | Game Developer
 - 🧠 **Information Overload**: I thrive on learning and enjoy getting overwhelmed with new information. 
 
 ![Curiosity GIF](https://media.giphy.com/media/3oEjHECc1GftirnHZm/giphy.gif?cid=790b7611ns59g4evrrnqniehqkxo0oul79dd6jp20omc23ft&ep=v1_gifs_search&rid=giphy.gif&ct=g) 
- <img src="https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif?cid=ecf05e47vy36lwztw8pem2mit2iw0z1c6gnq9ph6vqaqeyey&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="300" height="300">
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVjcm9tZGV3ZW12dDN0anB1aHQ4bnY0aTNyM3g3OTg2b3N4cnc1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IXnygGeB6LPPi/giphy.gif" align="right" width="200" height="200">
 
 ## Tech Stack
 
