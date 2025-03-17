@@ -11,6 +11,8 @@ Cybersecurity Enthusiast | Java & Python Programmer | Game Developer
 
 <img src="https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif?cid=ecf05e47vy36lwztw8pem2mit2iw0z1c6gnq9ph6vqaqeyey&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="300" height="300"> 
 
+![Tech Enthusiast GIF](https://media.giphy.com/media/v7WM6sLcnGIc8/giphy.gif?cid=ecf05e47xlnlwkoq8rklw5npthgvyv9tiyyxn42nwf1vtjuw&ep=v1_gifs_search&rid=giphy.gif&ct=g
+
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
@@ -27,4 +29,3 @@ Cybersecurity Enthusiast | Java & Python Programmer | Game Developer
 - 📧 Email: [vibhuyadav2005@gmail.com](mailto:vibhuyadav2005@gmail.com)
 - 💼 LinkedIn: [Vibhu Yadav](https://www.linkedin.com/in/vibhu-yadav-77b51b29a/)
 - 🌐  
-<img src="https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif?cid=ecf05e47vy36lwztw8pem2mit2iw0z1c6gnq9ph6vqaqeyey&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="100" height="100">
