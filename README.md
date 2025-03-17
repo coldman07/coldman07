@@ -13,6 +13,7 @@ Cybersecurity Enthusiast | Java & Python Programmer | Game Developer
 
 
 ![Curiosity GIF](https://media.giphy.com/media/3oEjHECc1GftirnHZm/giphy.gif?cid=790b7611ns59g4evrrnqniehqkxo0oul79dd6jp20omc23ft&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<img src="https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif?cid=ecf05e47vy36lwztw8pem2mit2iw0z1c6gnq9ph6vqaqeyey&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="300" height="300">
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
