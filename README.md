@@ -21,14 +21,15 @@ Cybersecurity Enthusiast | Java & Python Programmer | Game Developer
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-009688?style=flat&logo=security&logoColor=white)
 
 ![Tech Enthusiast GIF](https://media.giphy.com/media/v7WM6sLcnGIc8/giphy.gif?cid=ecf05e47xlnlwkoq8rklw5npthgvyv9tiyyxn42nwf1vtjuw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<img src="https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif?cid=ecf05e47vy36lwztw8pem2mit2iw0z1c6gnq9ph6vqaqeyey&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="100" height="100">
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibhuYadav2005&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vibhu&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ## Contact Me
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 📧 Email: [vibhuyadav2005@gmail.com](mailto:vibhuyadav2005@gmail.com)
+- 💼 LinkedIn: [Vibhu Yadav](https://www.linkedin.com/in/vibhu-yadav-77b51b29a/)
+- 🌐 
 
 <img src="https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif?cid=ecf05e47vy36lwztw8pem2mit2iw0z1c6gnq9ph6vqaqeyey&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="100" height="100">
