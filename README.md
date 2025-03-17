@@ -9,14 +9,11 @@ Cybersecurity Enthusiast | Java & Python Programmer | Game Developer
 ![Curiosity GIF](https://media.giphy.com/media/3oEjHECc1GftirnHZm/giphy.gif?cid=790b7611ns59g4evrrnqniehqkxo0oul79dd6jp20omc23ft&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 <img src="https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif?cid=ecf05e47vy36lwztw8pem2mit2iw0z1c6gnq9ph6vqaqeyey&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="300" height="300">
 ## Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-009688?style=flat&logo=security&logoColor=white)
-
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) 
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-009688?style=flat&logo=security&logoColor=white) 
 ![Tech Enthusiast GIF](https://media.giphy.com/media/v7WM6sLcnGIc8/giphy.gif?cid=ecf05e47xlnlwkoq8rklw5npthgvyv9tiyyxn42nwf1vtjuw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 <img src="https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif?cid=ecf05e47vy36lwztw8pem2mit2iw0z1c6gnq9ph6vqaqeyey&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="100" height="100">
