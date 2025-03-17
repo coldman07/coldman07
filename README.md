@@ -18,12 +18,11 @@ Cybersecurity Enthusiast | Java & Python Programmer | Game Developer
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) 
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-009688?style=flat&logo=security&logoColor=white) 
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-009688?style=flat&logo=security&logoColor=white)  
 
-
-![Tech Enthusiast GIF](https://media.giphy.com/media/v7WM6sLcnGIc8/giphy.gif?cid=ecf05e47xlnlwkoq8rklw5npthgvyv9tiyyxn42nwf1vtjuw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+  ![Tech Enthusiast GIF](https://media.giphy.com/media/v7WM6sLcnGIc8/giphy.gif?cid=ecf05e47xlnlwkoq8rklw5npthgvyv9tiyyxn42nwf1vtjuw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
  
-[![Vibhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=VibhuYadav2005&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+  [![Vibhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=VibhuYadav2005&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Contact Me
 - 📧 Email: [vibhuyadav2005@gmail.com](mailto:vibhuyadav2005@gmail.com)
