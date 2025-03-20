@@ -28,4 +28,4 @@ Cybersecurity Enthusiast | Java & Python Programmer | Game Developer
 - 📧 Email: [vibhuyadav2005@gmail.com](mailto:vibhuyadav2005@gmail.com)
 - 💼 LinkedIn: [Vibhu Yadav](https://www.linkedin.com/in/vibhu-yadav-77b51b29a/)
 - 🌐 Telegram: <img src= "https://github.com/user-attachments/assets/39f3da2d-72dd-4696-95ce-5c96b63c0bf5" align="center" width="100" height="100">
-- ![TryHackMe Badge](<img src="https://tryhackme-badges.s3.amazonaws.com/ColdMan.png" alt="Your Image Badge" />)
+- TryHackME: <img src="https://tryhackme-badges.s3.amazonaws.com/ColdMan.png" alt="Your Image Badge" />
