@@ -22,7 +22,8 @@ Cybersecurity Enthusiast | Java & Python Programmer | Game Developer
 ![Tech Enthusiast GIF](https://media.giphy.com/media/v7WM6sLcnGIc8/giphy.gif?cid=ecf05e47xlnlwkoq8rklw5npthgvyv9tiyyxn42nwf1vtjuw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## Github Stats 
-[![Vibhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=coldman07&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coldman07&show_icons=true)
+
 
 ## Contact Me
 - 📧 Email: [vibhuyadav2005@gmail.com](mailto:vibhuyadav2005@gmail.com)
