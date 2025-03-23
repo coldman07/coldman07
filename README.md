@@ -1,5 +1,5 @@
 ## Hi, I'm Vibhu 👋
-![Banner](https://plus.unsplash.com/premium_photo-1664304160128-ca5a08ac46ce?q=80&w=2653&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 ![Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJ5eGluN29qOTlsazE3ZzdoNjd4emlzenpsOGZ4MjZiYWFqMjJndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sns92xOAzdMsM/giphy.gif)
 
 Cybersecurity Enthusiast | Java & Python Programmer | Game Developer
