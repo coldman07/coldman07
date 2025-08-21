@@ -1,5 +1,24 @@
 ## Hi, I'm Vibhu 👋
 
+      <style>
+        .libutton {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          padding: 7px;
+          text-align: center;
+          outline: none;
+          text-decoration: none !important;
+          color: #ffffff !important;
+          width: 200px;
+          height: 32px;
+          border-radius: 16px;
+          background-color: #0A66C2;
+          font-family: "SF Pro Text", Helvetica, sans-serif;
+        }
+      </style>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vibhu-yadav-77b51b29a" target="_blank">Follow on LinkedIn</a>
+
 ![Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJ5eGluN29qOTlsazE3ZzdoNjd4emlzenpsOGZ4MjZiYWFqMjJndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sns92xOAzdMsM/giphy.gif)
 
 Cybersecurity Enthusiast | Java & Python Programmer | Game Developer
