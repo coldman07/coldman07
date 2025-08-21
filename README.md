@@ -1,22 +1,5 @@
 ## Hi, I'm Vibhu 👋
 
-      <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vibhu-yadav-77b51b29a" target="_blank">Follow on LinkedIn</a>
 
 ![Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJ5eGluN29qOTlsazE3ZzdoNjd4emlzenpsOGZ4MjZiYWFqMjJndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sns92xOAzdMsM/giphy.gif)
@@ -29,7 +12,6 @@ Cybersecurity Enthusiast | Java & Python Programmer | Game Developer
 - 🧠 **Information Overload**: I thrive on learning and enjoy getting overwhelmed with new information. 
 
 ![Curiosity GIF](https://media.giphy.com/media/3oEjHECc1GftirnHZm/giphy.gif?cid=790b7611ns59g4evrrnqniehqkxo0oul79dd6jp20omc23ft&ep=v1_gifs_search&rid=giphy.gif&ct=g) 
- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVjcm9tZGV3ZW12dDN0anB1aHQ4bnY0aTNyM3g3OTg2b3N4cnc1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IXnygGeB6LPPi/giphy.gif" align="right" width="350" height="350">
 
 ## Tech Stack
 
