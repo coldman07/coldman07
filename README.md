@@ -60,7 +60,7 @@ root@mothership:~# ./boot_vibhu.sh
 ```python
 class Vibhu:
     handle    = "coldman07"
-    species   = "human (allegedly) 👽"
+    species   = " GOAT / GOD "
     base      = "Delhi, India 🇮🇳"
     focus     = ["Cybersecurity", "Ransomware defence", "Cryptography", "2D games"]
     languages = ["Python", "Java", "JavaScript"]
@@ -207,7 +207,7 @@ class Vibhu:
 <br/>
 
 <!-- ============================ TRYHACKME ============================ -->
-## 🎯 `[ CTF RANK ]`
+## 🎯 `[ Find me on Hacking Platforms ]`
 
 <div align="center">
 
