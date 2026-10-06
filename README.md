@@ -46,7 +46,7 @@
 </div>
 
 ```bash
-root@mothership:~# nmap -sV -p- XCOLDMAN.local
+root@mothership:~# nmap -sV -p- ColdMAnX.local
 
 PORT      STATE  SERVICE        VERSION
 22/tcp    open   curiosity      always listening
@@ -56,13 +56,13 @@ PORT      STATE  SERVICE        VERSION
 8080/tcp  open   pentesting     scope respected, always
 31337/tcp open   elite          "we are not alone"
 
-root@mothership:~# ./boot_vibhu.sh
+root@mothership:~# ./boot_Dr_NoctyX.sh
 [  OK  ] Cloaking device ................. ENGAGED
 [  OK  ] Recon modules ................... LOADED
 [  OK  ] Curiosity engine ................ OVERCLOCKED
 [ WARN ] Information overload ............ ENJOYING IT
 
->> Access granted. Welcome, human. 👽
+>> Access granted. Welcome, GOAT
 ```
 
 <br/>
@@ -73,13 +73,14 @@ root@mothership:~# ./boot_vibhu.sh
 ```python
 class Vibhu:
     handle    = "coldman07"
-    species   = "GOAT"
-    base      = "Delhi, India 🇮🇳"
+    Alias     = "DrNoctyX"
+    species   = "GOAT by Birth"
+    Location  = "Traveller"
     focus     = ["Penetration Testing", "Red Teaming", "Bug Hunting"]
     also      = ["Cryptography", "Ransomware defence", "2D games"]
-    languages = ["Python", "Java", "JavaScript", "Bash"]
+    languages = ["Python", "Java", "C++", "Bash"]
     fuel      = "curiosity + information overload"
-    rules     = "We Don't talk about ***** ****"
+    rules     = "We Don't Talk about ***** **** "
 
     def mission(self):
         return "think like the attacker, so the defender wins"
@@ -138,7 +139,7 @@ class Vibhu:
 <br/>
 
 <!-- ============================ TECH STACK ============================ -->
-## ⚡ `[ ARSENAL - Just a fancy]`
+## ⚡ `[ ARSENAL ]`
 
 <div align="center">
 
@@ -234,7 +235,7 @@ class Vibhu:
 <br/>
 
 <!-- ============================ STATS ============================ -->
-## 📡 `[ GOAT ACTIVITY ]`
+## 📡 `[ ALIEN ACTIVITY ]`
 
 <div align="center">
 
@@ -248,6 +249,18 @@ class Vibhu:
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=coldman07&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
+
+</div>
+
+<br/>
+
+<!-- ============================ ABDUCTION ============================ -->
+## 🛸 `[ ABDUCTION IN PROGRESS ]`
+
+<div align="center">
+
+<!-- Needs assets/alien-abduction.svg committed to this repo -->
+<img alt="A UFO sweeping across a contribution grid, beaming the squares up into the ship" src="https://raw.githubusercontent.com/coldman07/coldman07/main/assets/alien-abduction.svg" width="100%" />
 
 </div>
 
