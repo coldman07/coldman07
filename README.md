@@ -46,7 +46,7 @@
 </div>
 
 ```bash
-root@mothership:~# nmap -sV -p- vibhu.local
+root@mothership:~# nmap -sV -p- XCOLDMAN.local
 
 PORT      STATE  SERVICE        VERSION
 22/tcp    open   curiosity      always listening
@@ -73,13 +73,13 @@ root@mothership:~# ./boot_vibhu.sh
 ```python
 class Vibhu:
     handle    = "coldman07"
-    species   = "human (allegedly) 👽"
+    species   = "GOAT"
     base      = "Delhi, India 🇮🇳"
     focus     = ["Penetration Testing", "Red Teaming", "Bug Hunting"]
     also      = ["Cryptography", "Ransomware defence", "2D games"]
     languages = ["Python", "Java", "JavaScript", "Bash"]
     fuel      = "curiosity + information overload"
-    rules     = "authorized targets only, responsible disclosure always"
+    rules     = "We Don't talk about ***** ****"
 
     def mission(self):
         return "think like the attacker, so the defender wins"
@@ -138,7 +138,7 @@ class Vibhu:
 <br/>
 
 <!-- ============================ TECH STACK ============================ -->
-## ⚡ `[ ARSENAL ]`
+## ⚡ `[ ARSENAL - Just a fancy]`
 
 <div align="center">
 
@@ -171,7 +171,7 @@ class Vibhu:
 <br/>
 
 <!-- ============================ HUNTING GROUNDS ============================ -->
-## 🏴‍☠️ `[ HUNTING GROUNDS ]`
+## 🏴‍☠️ `[ FIND ME HERE ]`
 
 <div align="center">
 
@@ -234,7 +234,7 @@ class Vibhu:
 <br/>
 
 <!-- ============================ STATS ============================ -->
-## 📡 `[ ALIEN ACTIVITY ]`
+## 📡 `[ GOAT ACTIVITY ]`
 
 <div align="center">
 
@@ -248,18 +248,6 @@ class Vibhu:
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=coldman07&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
-
-</div>
-
-<br/>
-
-<!-- ============================ SNAKE ============================ -->
-## 🐍 `[ ALIEN SERPENT FEEDING ON MY COMMITS ]`
-
-<div align="center">
-
-<!-- Needs the workflow in .github/workflows/snake.yml to have run once -->
-<img alt="Alien contribution snake" src="https://raw.githubusercontent.com/coldman07/coldman07/output/github-snake-alien.svg" />
 
 </div>
 
