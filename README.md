@@ -1,10 +1,10 @@
 <!-- ============================ HEADER ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Vibhu%20Yadav&fontSize=64&fontColor=00F5A0&animation=fadeIn&fontAlignY=36&desc=coldman07%20%C2%B7%20Cybersecurity%20%C2%B7%20Python%20%C2%B7%20Java%20%C2%B7%20Games&descAlignY=58&descSize=18" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0a,50:003b12,100:3b0a5e&height=240&section=header&text=V1BHU%20%7C%20coldman07&fontSize=58&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=%F0%9F%91%BD%20Cybersecurity%20%C2%B7%20Cryptography%20%C2%B7%20Ransomware%20Defence%20%C2%B7%20Games%20%F0%9F%9B%B8&descAlignY=62&descSize=17&descColor=B026FF" width="100%" alt="Header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F5A0&center=true&vCenter=true&width=640&height=50&lines=Hi%2C+I'm+Vibhu+%F0%9F%91%8B;Cybersecurity+Enthusiast+%F0%9F%94%90;Java+%26+Python+Programmer+%F0%9F%92%BB;2D+Game+Developer+%F0%9F%91%BE;Breaking+things+to+understand+them+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1100&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=%3E+initializing+alien.exe+...;%3E+Hi%2C+I'm+Vibhu+%F0%9F%91%BD;%3E+Cybersecurity+Enthusiast+%F0%9F%94%90;%3E+Java+%26+Python+Programmer+%F0%9F%92%BB;%3E+2D+Game+Developer+%F0%9F%91%BE;%3E+We+are+not+alone+in+the+network+%F0%9F%9B%B8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,42 +14,76 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=coldman07&label=Profile%20Views&color=00f5a0&style=for-the-badge" alt="Profile views" />
-<a href="https://github.com/coldman07?tab=followers"><img src="https://img.shields.io/github/followers/coldman07?style=for-the-badge&logo=github&color=0d1117&labelColor=00f5a0" alt="Followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=coldman07&label=ABDUCTED%20VISITORS&color=00FF41&style=for-the-badge&labelColor=1a0a2e" alt="Profile views" />
+<a href="https://github.com/coldman07?tab=followers"><img src="https://img.shields.io/github/followers/coldman07?style=for-the-badge&logo=github&color=B026FF&labelColor=0a0f0a&label=CREW" alt="Followers" /></a>
 <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vibhu-yadav-77b51b29a"><img src="https://img.shields.io/badge/Follow%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn" /></a>
 
 </div>
 
 <br/>
 
+<!-- ============================ BOOT SEQUENCE ============================ -->
+<div align="center">
+
+```text
+            .-""""""-.
+          .'          '.
+         /   O      O   \
+        :           `    :
+        |                |
+        :    .------.    :
+         \  '        '  /
+          '.          .'
+            '-......-'
+        ~~ T R A N S M I S S I O N  R E C E I V E D ~~
+```
+
+</div>
+
+```bash
+root@mothership:~# ./boot_vibhu.sh
+
+[  OK  ] Cloaking device ................. ENGAGED
+[  OK  ] Firewall bypass modules ......... LOADED
+[  OK  ] Curiosity engine ................ OVERCLOCKED
+[ WARN ] Information overload ............ ENJOYING IT
+[  OK  ] Coffee levels ................... CRITICAL (refill pending)
+
+>> Access granted. Welcome, human. 👽
+```
+
+<br/>
+
 <!-- ============================ ABOUT ============================ -->
-## 👤 About Me
+## 🛸 `[ ENTITY PROFILE ]`
 
 ```python
 class Vibhu:
-    handle   = "coldman07"
-    location = "Delhi, India 🇮🇳"
-    focus    = ["Cybersecurity", "Ransomware defence", "Cryptography", "2D games"]
+    handle    = "coldman07"
+    species   = "human (allegedly) 👽"
+    base      = "Delhi, India 🇮🇳"
+    focus     = ["Cybersecurity", "Ransomware defence", "Cryptography", "2D games"]
     languages = ["Python", "Java", "JavaScript"]
-    fuel     = "curiosity + information overload"
+    fuel      = "curiosity + information overload"
 
-    def current_mood(self):
-        return "tweaking systems just to see how they work"
+    def mission(self):
+        return "dive into systems, tweak things out of curiosity, understand how they break"
 ```
 
-- 🔐 Passionate about cybersecurity and exploring how systems really work
-- 💻 Programming in **Java** and **Python**, and building **2D games**
+- 🔐 **Cybersecurity** — passionate about exploring how systems really work
+- 💻 **Code** — Java, Python, and developing 2D games
 - 👾 **Tech enthusiast** — I love playing with new technologies
-- 🌐 **Cyber enthusiast** — diving into security and tweaking things out of curiosity
+- 🌐 **Cyber enthusiast** — tweaking things out of curiosity, just to see what happens
 - 🧠 **Information overload** — I thrive on learning and enjoy getting overwhelmed with new information
 
-> 🎣 I also worked on **StealthPhisher**, the world's largest phishing dataset, and contributed to the research paper on it.
-> [![Kaggle](https://img.shields.io/badge/Kaggle-StealthPhisher%20Dataset-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/vibhuyadav0/stealthphisher-phishing-attack-dataset)
+> 🎣 **Intel:** I also worked on **StealthPhisher**, the world's largest phishing dataset, and contributed to the research paper on it.
+>
+> [![Kaggle](https://img.shields.io/badge/Kaggle-StealthPhisher%20Dataset-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0a0f0a)](https://www.kaggle.com/datasets/vibhuyadav0/stealthphisher-phishing-attack-dataset)
 
 <br/>
 
 <!-- ============================ TECH STACK ============================ -->
-## 🛠️ Tech Stack
+## ⚡ `[ ARSENAL ]`
 
 <div align="center">
 
@@ -60,8 +94,8 @@ class Vibhu:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-009688?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Cryptography](https://img.shields.io/badge/-Cryptography-8A2BE2?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Cryptography](https://img.shields.io/badge/-Cryptography-B026FF?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![Game Dev](https://img.shields.io/badge/-2D%20Game%20Dev-FF6F61?style=for-the-badge&logo=gamemaker&logoColor=white)
 
 <br/>
@@ -69,39 +103,49 @@ class Vibhu:
 <!-- ORIGINAL TECH ENTHUSIAST GIF (kept) -->
 <img src="https://media.giphy.com/media/v7WM6sLcnGIc8/giphy.gif?cid=ecf05e47xlnlwkoq8rklw5npthgvyv9tiyyxn42nwf1vtjuw&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Tech Enthusiast GIF" width="45%" />
 
+<br/><br/>
+
+<img src="https://media.giphy.com/media/xoicctrOv5aGw6mCZi/giphy.gif" alt="Matrix coding" height="150" />
+<img src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy.gif" alt="Glitch hacking" height="150" />
+<img src="https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif" alt="Tech computer" height="150" />
+
 </div>
 
 <br/>
 
 <!-- ============================ FEATURED PROJECTS ============================ -->
-## 🚀 Featured Projects
+## 🧬 `[ MISSION LOG ]`
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/coldman07/HORUS">HORUS</a></h3>
+      <sub><code>CLASS: RANSOMWARE SHIELD</code></sub><br/><br/>
       Proactive Windows ransomware mitigation. Deploys canary files, watches Windows Event Logs for unauthorized access, and terminates or isolates threats in real time.
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Blue%20Team-0A66C2?style=flat-square" alt="Blue Team" />
+      <img src="https://img.shields.io/badge/Blue%20Team-00FF41?style=flat-square&labelColor=0a0f0a" alt="Blue Team" />
     </td>
     <td width="50%" valign="top">
       <h3>🔒 <a href="https://github.com/coldman07/CryptDir_Pro">CryptDir_Pro</a></h3>
+      <sub><code>CLASS: ENCRYPTION VAULT</code></sub><br/><br/>
       Windows utility for high-security streaming encryption of files and folders (AES-256-CTR + HMAC-SHA256), with test-decrypt and atomic operations.
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/AES--256-8A2BE2?style=flat-square" alt="AES-256" />
+      <img src="https://img.shields.io/badge/AES--256-B026FF?style=flat-square&labelColor=0a0f0a" alt="AES-256" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🔑 <a href="https://github.com/coldman07/CryptoGraphy">CryptoGraphy</a></h3>
+      <sub><code>CLASS: CIPHER LAB</code></sub><br/><br/>
       A playground of cryptographic algorithms to experiment with.
       <br/><br/>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
     </td>
     <td width="50%" valign="top">
       <h3>😂 <a href="https://github.com/coldman07/Meme_Searcher">Meme_Searcher</a></h3>
+      <sub><code>CLASS: EARTHLING CULTURE SCANNER</code></sub><br/><br/>
       Because sometimes the best search engine is the one that finds you the right meme.
       <br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -112,60 +156,62 @@ class Vibhu:
 <br/>
 
 <!-- ============================ STATS ============================ -->
-## 📊 GitHub Stats
+## 📡 `[ ALIEN ACTIVITY ]`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=coldman07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldman07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=coldman07&show_icons=true&hide_border=false&border_color=00FF41&bg_color=0a0f0a&title_color=00FF41&text_color=B8FFB8&icon_color=B026FF&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldman07&layout=compact&hide_border=false&border_color=B026FF&bg_color=0a0f0a&title_color=B026FF&text_color=B8FFB8" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=coldman07&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=coldman07&background=0a0f0a&border=00FF41&ring=B026FF&fire=00FF41&currStreakLabel=00FF41&sideLabels=B026FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=00FF4155" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=coldman07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=coldman07&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
 
 </div>
 
 <br/>
 
-<!-- ============================ ACTIVITY / SNAKE ============================ -->
-## 🐍 Contribution Snake
+<!-- ============================ SNAKE ============================ -->
+## 🐍 `[ ALIEN SERPENT FEEDING ON MY COMMITS ]`
 
 <div align="center">
 
 <!-- Needs the workflow in .github/workflows/snake.yml to have run once -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coldman07/coldman07/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coldman07/coldman07/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/coldman07/coldman07/output/github-snake-dark.svg" />
-</picture>
+<img alt="Alien contribution snake" src="https://raw.githubusercontent.com/coldman07/coldman07/output/github-snake-alien.svg" />
 
 </div>
 
 <br/>
 
-<!-- ============================ MORE GIF ART ============================ -->
-## 👾 Hack the Planet
+<!-- ============================ ALIEN GIF GALLERY ============================ -->
+## 👽 `[ CONTACT: THEY'RE HERE ]`
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/4iudfwd74c8AhQv0aa/giphy.gif" alt="Coding cyber security" height="190" />
-<img src="https://media.giphy.com/media/U0aoQHJtK32d8E8teg/giphy.gif" alt="Cyber security" height="190" />
-<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Hacker hacking" height="190" />
+<img src="https://media.giphy.com/media/gpkstDZ9FGGXK/giphy.gif" alt="Aliens abduction" height="190" />
+<img src="https://media.giphy.com/media/tCQEkKMtt0F7N7ifI0/giphy.gif" alt="Alien abduction in space" height="190" />
+<img src="https://media.giphy.com/media/r88w2d7tHqazFwNEGN/giphy.gif" alt="UFO hovering over Area 51" height="190" />
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/4iudfwd74c8AhQv0aa/giphy.gif" alt="Coding cyber security" height="170" />
+<img src="https://media.giphy.com/media/U0aoQHJtK32d8E8teg/giphy.gif" alt="Cyber security" height="170" />
+<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Hacker hacking" height="170" />
 
 </div>
 
 <br/>
 
 <!-- ============================ TRYHACKME ============================ -->
-## 🎯 TryHackMe
+## 🎯 `[ CTF RANK ]`
 
 <div align="center">
 
-<a href="https://tryhackme.com/p/ColdMan">
+<a href="https://tryhackme.com/p/DrNoctyx">
   <img src="https://tryhackme-badges.s3.amazonaws.com/ColdMan.png" alt="TryHackMe badge" />
 </a>
 
@@ -174,7 +220,7 @@ class Vibhu:
 <br/>
 
 <!-- ============================ CONTACT ============================ -->
-## 📬 Let's Connect
+## 📬 `[ OPEN CHANNEL ]`
 
 <div align="center">
 
@@ -184,8 +230,8 @@ class Vibhu:
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=8B949E&center=true&vCenter=true&width=520&lines=%24+sudo+learn+--everything;%24+echo+%22Stay+curious.+Stay+secure.%22" alt="Footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=00FF41&center=true&vCenter=true&width=560&lines=%24+sudo+learn+--everything;%24+echo+%22Take+me+to+your+leader.%22+%7C+nc+mothership+1337;%24+exit+%23+the+truth+is+out+there+%F0%9F%91%BD" alt="Footer typing" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0a5e,50:003b12,100:0a0f0a&height=130&section=footer&animation=twinkling" width="100%" alt="Footer" />
