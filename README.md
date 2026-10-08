@@ -254,37 +254,6 @@ class Vibhu:
 
 <br/>
 
-<!-- ============================ ABDUCTION ============================ -->
-## 🛸 `[ ABDUCTION IN PROGRESS ]`
-
-<div align="center">
-
-<!-- Needs assets/alien-abduction.svg committed to this repo -->
-<img alt="A UFO sweeping across a contribution grid, beaming the squares up into the ship" src="https://raw.githubusercontent.com/coldman07/coldman07/main/assets/alien-abduction.svg" width="100%" />
-
-</div>
-
-<br/>
-
-<!-- ============================ ALIEN GIF GALLERY ============================ -->
-## 👽 `[ CONTACT: THEY'RE HERE ]`
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/gpkstDZ9FGGXK/giphy.gif" alt="Aliens abduction" height="190" />
-<img src="https://media.giphy.com/media/tCQEkKMtt0F7N7ifI0/giphy.gif" alt="Alien abduction in space" height="190" />
-<img src="https://media.giphy.com/media/r88w2d7tHqazFwNEGN/giphy.gif" alt="UFO hovering over Area 51" height="190" />
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/4iudfwd74c8AhQv0aa/giphy.gif" alt="Coding cyber security" height="170" />
-<img src="https://media.giphy.com/media/U0aoQHJtK32d8E8teg/giphy.gif" alt="Cyber security" height="170" />
-<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Hacker hacking" height="170" />
-
-</div>
-
-<br/>
-
 <!-- ============================ CONTACT ============================ -->
 ## 📬 `[ OPEN CHANNEL ]`
 
